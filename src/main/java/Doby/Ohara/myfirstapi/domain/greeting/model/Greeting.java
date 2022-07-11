@@ -1,4 +1,4 @@
-package Doby.Ohara.myfirstapi.restservice;
+package Doby.Ohara.myfirstapi.domain.greeting.model;
 
 public class Greeting {
     private final long id;
